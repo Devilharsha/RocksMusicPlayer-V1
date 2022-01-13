@@ -43,15 +43,15 @@ REPO = """━━━━━━━━━━━━━━━━━━━━━━━�
 ━━━━━━━━━━━━━━━━━
 ᴜsᴇʀʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴠᴄ ᴄʜᴀᴛ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ [𝐂𝐫𝐞𝐚𝐭𝐨𝐫] @Dr_Asad_Ali
-┣★ [𝐇𝐞𝐚𝐫𝐭]     @Give_Me_Heart
-┣★ [𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬] @AsadSupport)
-┣★ [𝐎𝐮𝐫 𝐅𝐞𝐝] @Part_Of_Rocks)
-┣★ [𝐆𝐫𝐨𝐮𝐩] @Shayri_Music_Lovers)
+┣★ [𝐂𝐫𝐞𝐚𝐭𝐨𝐫] @harshahero
+┣★ [𝐇𝐞𝐚𝐫𝐭]     @tusukasa
+┣★ [𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬] @pegasusupdates)
+┣★ [𝐎𝐮𝐫 𝐅𝐞𝐝] @novus_assistant_chat)
+┣★ [𝐆𝐫𝐨𝐮𝐩] @supercartoonstelugu)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 
-IF HAVE ANY QUESTION OR WANT REPO THEN CONTACT » TO » MY » [OWNER] @Dr_Asad_Ali"""
+IF HAVE ANY QUESTION OR WANT REPO THEN CONTACT » TO » MY » [OWNER] @harshahero"""
 
 
 @app.on_message(
